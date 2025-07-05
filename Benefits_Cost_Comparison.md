@@ -1,4 +1,4 @@
-# Benefits & Cost Comparison: W2 vs Contractor (CORRECTED)
+# Benefits & Cost Comparison: W2 vs Contractor
 
 ## Health Insurance: The Real Numbers
 

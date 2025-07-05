@@ -10,7 +10,7 @@ _Based on Actual Marketplace Health Insurance Quotes - Corrected with 5 Weeks Va
 - Employer Payroll Tax (7.65%): $8,798
 - **Total Direct Value: $123,798**
 
-### Health Benefits (CORRECTED)
+### Health Benefits
 
 - Your Monthly Premium: $400/month = $4,800/year
 - Copays: $25 per visit (~$300/year)
@@ -24,7 +24,7 @@ _Based on Actual Marketplace Health Insurance Quotes - Corrected with 5 Weeks Va
 - Annualized Value (conservative): $30,000
 - **Total Retirement Value: $30,000**
 
-### Time Off Benefits (CORRECTED)
+### Time Off Benefits
 
 - Vacation: 5 weeks = $11,058
 - Sick Time: 2 weeks = $4,423

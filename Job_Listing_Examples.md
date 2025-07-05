@@ -6,16 +6,14 @@ Based on current market data, here are specific examples and search recommendati
 
 ## Key Market Data Points
 
-### Solutions Architect Rates (UK Market - converted to USD)
+### Solutions Architect Rates
 
-- **Median Daily Rate:** £625 ($788 USD)
-- **75th Percentile:** £713 ($900 USD)
-- **Hourly Rates:** £64.50/hour ($81/hour median)
-- **Top rates:** £77-92/hour ($97-116/hour)
+- **Median Daily Rate:** ($788 USD)
+- **75th Percentile:** ($900 USD)
+- **Hourly Rates:** ($81/hour median)
+- **Top rates:** ($97-116/hour)
 
-**Converting to US Annual:** $160,000-192,000/year
-
-### US Market Specifics
+**US Annual:** $160,000-192,000/year
 
 #### Database Administrator Rates (20+ years)
 
