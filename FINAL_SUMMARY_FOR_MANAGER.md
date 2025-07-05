@@ -9,16 +9,19 @@
 ## Three Key Points to Emphasize
 
 ### 1. Healthcare Costs Explode
+
 - **Now:** $400/month ($5,100/year total)
 - **Contractor:** $1,486/month ($24,884/year potential)
 - **Increase:** $1,649 MORE per month
 
 ### 2. Pension Loss is Devastating
+
 - **Now:** Eligible to retire at 55
 - **Contractor:** Must wait until 67
 - **Impact:** 12 years lost = $400,000+ lifetime value
 
 ### 3. Total Compensation Loss
+
 - Healthcare increase: $19,784
 - Lost PTO (7 weeks): $20,347
 - Additional taxes: $8,798
@@ -28,29 +31,17 @@
 ## Your Negotiation Strategy
 
 ### Opening Ask: $165/hour
+
 - "This is the market rate for my integrated skills"
 
 ### Target: $150/hour
+
 - "This fairly compensates for all losses"
 
 ### Floor: $125/hour
+
 - "This is mathematical break-even"
 - "Anything less means I take a pay cut"
-
-## Alternative Proposals
-
-1. **Hybrid Model**
-   - 20 hours W2 (keep benefits)
-   - 20 hours contractor at $120/hour
-
-2. **Health Subsidy**
-   - $110/hour rate
-   - Company pays $1,000/month toward health insurance
-
-3. **Benefits Bridge**
-   - Lower hourly rate
-   - Company continues pension contributions
-   - Company maintains health insurance
 
 ## Key Facts to Remember
 
@@ -59,20 +50,6 @@
 - You lose 7 weeks of paid time off
 - You have 22 years of irreplaceable knowledge
 - Market rate supports your ask
-
-## If They Push Back
-
-**"Too expensive"**
-→ "Let me show you the actual cost breakdown..."
-
-**"Others charge less"**
-→ "Do they have 22 years with your systems?"
-
-**"Start lower"**
-→ "I'm already below market rate at $150"
-
-**"Budget constraints"**
-→ "Let's explore alternative arrangements"
 
 ## Documents to Bring
 
